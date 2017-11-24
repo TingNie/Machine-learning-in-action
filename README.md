@@ -3,6 +3,8 @@
 
 既是为了给自己做一个笔记，也是希望大家一起学习
 
+bayes文件夹：bayes算法用于垃圾邮件分类
+
 kmeans文件夹：kmeans + 二分kmeans算法
 
 k-Nearest Neighbor文件夹：k近邻算法 + 数值归一化
