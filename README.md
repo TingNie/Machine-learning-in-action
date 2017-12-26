@@ -1,7 +1,9 @@
 # Machine-learning-in-action
-个人使用jupyter notebook整理的peter的《机器学习实战》代码，使其更有层次感，更加连贯，也根据自己的代码习惯，加了一些自己的修改，以及注释
+个人使用jupyter notebook整理的**peter的《机器学习实战》代码**，使其更有层次感，更加连贯，也根据自己的代码习惯，加了一些自己的修改，以及注释
 
-既是为了给自己做一个笔记，也是希望大家一起学习
+既是为了给自己做一个笔记，也是希望大家一起学习,原版所有代码[点击这里](https://www.manning.com/books/machine-learning-in-action)
+
+apriori文件夹：Apriori算法进行关联分析
 
 bayes文件夹：bayes算法用于垃圾邮件分类
 
