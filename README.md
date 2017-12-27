@@ -9,6 +9,8 @@ bayes文件夹：bayes算法用于垃圾邮件分类
 
 decisionTree文件夹：使用决策树算法，进行数据分类
 
+fp-growth文件夹：FP-growth算法加速发现频繁项集
+
 kmeans文件夹：kmeans + 二分kmeans算法
 
 k-Nearest Neighbor文件夹：k近邻算法 + 数值归一化
