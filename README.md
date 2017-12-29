@@ -3,6 +3,8 @@
 
 既是为了给自己做一个笔记，也是希望大家一起学习,原版所有代码[点击这里](https://www.manning.com/books/machine-learning-in-action)
 
+adaBoost文件夹：AdaBoost元算法提高分类性能
+
 apriori文件夹：Apriori算法进行关联分析
 
 bayes文件夹：bayes算法用于垃圾邮件分类
